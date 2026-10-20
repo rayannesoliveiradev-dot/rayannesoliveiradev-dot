@@ -22,8 +22,7 @@ Atualmente, estou aprendendo e praticando programação.
 
 # Contato
 
-[LinkedIn](www.linkedin.com/in/rayanne-oliveira-aa8451444)
-
+[LinkedIn](https://www.linkedin.com/in/rayanne-oliveira-aa845144/)
 
 
 ⭐ Obrigada por visitar meu perfil!
