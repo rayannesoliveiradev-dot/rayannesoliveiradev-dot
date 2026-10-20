@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá! Eu sou a Rayanne 👋
 
-<!--
-**rayannesoliveiradev-dot/rayannesoliveiradev-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas (ADS).
 
-Here are some ideas to get you started:
+Atualmente, estou aprendendo e praticando programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Tecnologias
+
+- Python
+- SQL
+- HTML, CSS e JavaScript (em aprendizado)
+
+# Projetos
+
+- **[Controle de Gastos](https://github.com/rayannesoliveiradev-dot/controle-de-gastos)** — projeto em Python para praticar programação e armazenamento de dados.
+
+# Objetivos
+
+- Desenvolver projetos práticos.
+- Aprimorar minhas habilidades em programação.
+- Construir meu portfólio na área de tecnologia.
+
+# Contato
+
+[LinkedIn](https://www.linkedin.com/in/rayanne-oliveira-aa845144)
+
+
+
+⭐ Obrigada por visitar meu perfil!
