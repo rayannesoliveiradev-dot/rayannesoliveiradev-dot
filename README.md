@@ -1,4 +1,4 @@
-# Olá! Eu sou a Rayanne 👋
+# Olá! Eu sou a Rayanne.
 
 Estudante de Análise e Desenvolvimento de Sistemas (ADS).
 
