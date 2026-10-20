@@ -1,6 +1,6 @@
-# Olá! Eu sou a Rayanne.
+# Olá, eu sou a Rayanne.
 
-Estudante de Análise e Desenvolvimento de Sistemas (ADS).
+Tenho 23 anos e sou estudante de Análise e Desenvolvimento de Sistemas (ADS).
 
 Atualmente, estou aprendendo e praticando programação.
 
